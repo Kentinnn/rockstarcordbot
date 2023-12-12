@@ -1,0 +1,67 @@
+{
+    "AVATAR": {
+        "Jason Schreier X": "https://nitter.1d4.us/pic/enc/cGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy8xMzEwOTI5OTcyOTU4MjQwNzY4LzJTamZHZUVWXzQwMHg0MDAuanBn",
+        "Rockstar Actu": "https://cdn.discordapp.com/attachments/846141937429774366/1181616437165572126/telecharge.png?ex=6581b50f&is=656f400f&hm=ca30a1a072c9b2f0fd7f74694216ed0f63603d1ce93ea85c95f5f3447a2c79c8&",
+        "Rockstar Actu X": "https://nitter.1d4.us/pic/enc/cGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy8xNzMwNjI1MjU4NDg5NTU2OTkzL2h2TEVRU09yXzQwMHg0MDAuanBn",
+        "Rockstar Actu YouTube": "https://yt3.googleusercontent.com/WYc5vUocTHRyOw6p3H5C_kIicEwsHUoz4JDQapG5nq8JqthM6y2CAJRGifHKRaOnWB4cTeVsYUc=s176-c-k-c0x00ffffff-no-rj",
+        "Rockstar Game X": "https://cdn.discordapp.com/attachments/846141937429774366/1181718757303918612/cGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy8xNDE3NDcxNzkxODQ1NDc4NDAzL016QVdDZks3LmpwZw.jpg?ex=6582145b&is=656f9f5b&hm=907d82aa53e042a1c5507137f084b3bf9d5244ee0327c002ff068a1bc5288321&",
+        "Rockstar Games YouTube": "https://yt3.googleusercontent.com/r7mISTzNbcLem_plduc_SKMh9KUiP8CWnuhS7H4-CCErF4juXxkrK-5_4LOIMeYl-lXAXMUG=s176-c-k-c0x00ffffff-no-rj",
+        "Rockstar Mag": "https://www.rockstarmag.fr/wp-content/uploads/2020/09/RM-RockstarMag.png",
+        "Rockstar Mag X": "https://nitter.1d4.us/pic/enc/cGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy8xNzMxODMxNDIwMDQ4MzIyNTYwL2NLR2o2d1A5XzQwMHg0MDAuanBn",
+        "Rockstar Mag YouTube": "https://yt3.googleusercontent.com/KsRmuasVfvqcLpiSDG1F__OJZV-WQFjt_IfYargpM7cKD-o5JO2z8s058NjXqVO9RLtvvvIF8A=s176-c-k-c0x00ffffff-no-rj",
+        "Rockstar Universe": "https://www.rockstaruniverse.co.uk/wp-content/uploads/2023/10/cropped-cropped-cropped-cropped-Logo-T-Shirt-1.png",
+        "Rockstar Universe X": "https://nitter.1d4.us/pic/enc/cGJzLnR3aW1nLmNvbS9wcm9maWxlX2ltYWdlcy8xNzMwNjcxNTkyOTU3NTA1NTM2L3lheWsxT3BTXzQwMHg0MDAucG5n"
+    },
+    "GUID": {
+        "Jason Schreier X": "/root/rss-discord/GUID/Jason Schreier X.guid",
+        "Rockstar Actu": "/root/rss-discord/GUID/Rockstar Actu.guid",
+        "Rockstar Actu X": "/root/rss-discord/GUID/Rockstar Actu X.guid",
+        "Rockstar Actu YouTube": "/root/rss-discord/GUID/Rockstar Actu YouTube.guid",
+        "Rockstar Game X": "/root/rss-discord/GUID/Rockstar Game X.guid",
+        "Rockstar Games YouTube": "/root/rss-discord/GUID/Rockstar Games YouTube.guid",
+        "Rockstar Mag": "/root/rss-discord/GUID/Rockstar Mag.guid",
+        "Rockstar Mag X": "/root/rss-discord/GUID/Rockstar Mag X.guid",
+        "Rockstar Mag YouTube": "/root/rss-discord/GUID/Rockstar Mag YouTube.guid",
+        "Rockstar Universe": "/root/rss-discord/GUID/Rockstar Universe.guid",
+        "Rockstar Universe X": "/root/rss-discord/GUID/Rockstar Universe X.guid"
+    },
+    "URL": {
+        "Jason Schreier X": "https://nitter.1d4.us/jasonschreier/rss",
+        "Rockstar Actu": "https://rockstaractu.com/feed/",
+        "Rockstar Actu X": "https://nitter.1d4.us/Rockstar_Actu/rss",
+        "Rockstar Actu YouTube": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI6UOjxRb3ZRPIEGJK46mww",
+        "Rockstar Game X": "https://nitter.1d4.us/RockstarGames/rss",
+        "Rockstar Games YouTube": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6VcWc1rAoWdBCM0JxrRQ3A",
+        "Rockstar Mag": "https://www.rockstarmag.fr/feed/",
+        "Rockstar Mag X": "https://nitter.1d4.us/Rockstar_Mag/rss",
+        "Rockstar Mag YouTube": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmU6lJbZKzpAU_S1h6Ec-dg",
+        "Rockstar Universe": "https://www.rockstaruniverse.co.uk/feed/",
+        "Rockstar Universe X": "https://nitter.1d4.us/RStarUniverse/rss"
+    },
+    "USERNAME": {
+        "Jason Schreier X": "Jason Schreier X",
+        "Rockstar Actu": "Rockstar Actu",
+        "Rockstar Actu X": "Rockstar Actu X",
+        "Rockstar Actu YouTube": "Rockstar Actu YouTube",
+        "Rockstar Game X": "Rockstar Game X",
+        "Rockstar Games YouTube": "Rockstar Games YouTube",
+        "Rockstar Mag": "Rockstar Mag",
+        "Rockstar Mag X": "Rockstar Mag X",
+        "Rockstar Mag YouTube": "Rockstar Mag YouTube",
+        "Rockstar Universe": "Rockstar Universe",
+        "Rockstar Universe X": "Rockstar Universe X"
+    },
+    "WEBHOOK": {
+        "Jason Schreier X": "https://discord.com/api/webhooks/1181900383740760094/7SWvgyQVhx4_QgP5O1S0vj6qBAipHRwnlK74gyJ9NnzvR8y0yVGp_6KyIa5L7JuoHEFA",
+        "Rockstar Actu": "https://discord.com/api/webhooks/1181715480113848462/6tHcvzy9ByLFGkfKMIcE8Gfex69lB6LXau6Xm0SOwyZwV8z-SoIQJiXlmGIUck_rdVX5",
+        "Rockstar Actu X": "https://discord.com/api/webhooks/1183190491681005598/KcEl1aFRhPhtroIXU_FBHFVOdgNfgh9SvDLkh8nWDysintBM478J5PF-U6_ui337R8kC",
+        "Rockstar Actu YouTube": "https://discord.com/api/webhooks/1183177317053374494/j3P92bbo2NcUVXskdkyIET4DXLH4FtW7a3FoqSqrb0sPpVWMyTIjs2J_CzQJ-bvteUBo",
+        "Rockstar Game X": "https://discord.com/api/webhooks/1181718614383014078/IbOMejw4fEXGbusDAApNGH7KyJzUtRsYqlhlBj2_aYYLfHuJZ5gZr5lA5_Q4H4TaFi-8",
+        "Rockstar Games YouTube": "https://discord.com/api/webhooks/1183178222645547018/kl-IbYHF_4YDolBDMDn5NUqeHnBoJM3mxKfUSJO5GuNM5pzmZV5HQsKTO0wCjb7wRVBj",
+        "Rockstar Mag": "https://discord.com/api/webhooks/1181611082339594240/YYEDftRNnilJFcvDYm3czZmRfQzKuzpyAqrtNOBaBTzKGCEubeC2t7Vn9tKLR2znAObT",
+        "Rockstar Mag X": "https://discord.com/api/webhooks/1183190489206378616/sh_WTQJtwc6ZUUBnmi-bAX4ZUXZ6HNU0gCOjeNboe63GkFfRDOlqXkMBF_Fwiqe3FjHu",
+        "Rockstar Mag YouTube": "https://discord.com/api/webhooks/1182049713558667264/QUXOxayUYiJ_JmreJlTFKaFFSd0cyVnMuvcmCqNafYVSTgZoU_GusOR4eEZzLVGOQVqV",
+        "Rockstar Universe": "https://discord.com/api/webhooks/1183181647189909588/H17ws9p_nbUSlHu4X_NaTBsnw-2wDvj1ctUzlaeM3bM4G7YIFysp7n9j1Qe_eJC7jro6",
+        "Rockstar Universe X": "https://discord.com/api/webhooks/1183180910758199406/oWnYyXhXm9sfbHJq5Rcvtp1fJwlmW8GWOsyqK46ByIZRPC8p7Pi7j-qgUWzxOEw2KjHE"
+    }
+}
